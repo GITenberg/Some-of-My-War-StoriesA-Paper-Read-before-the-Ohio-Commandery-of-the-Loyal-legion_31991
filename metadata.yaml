@@ -1,0 +1,28 @@
+_repo: Some-of-My-War-StoriesA-Paper-Read-before-the-Ohio-Commandery-of-the-Loyal-legion_31991
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Foote, Allen Ripley
+    birthdate: 1842
+    deathdate: 1921
+    gutenberg_agent_id: '35602'
+    url: http://www.gutenberg.org/2009/agents/35602
+description: ''
+gutenberg_issued: '2010-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcc 'E456'
+title: 'Some of My War Stories
+
+  A Paper Read before the Ohio Commandery of the Loyal legion'
+url: http://www.gutenberg.org/ebooks/31991

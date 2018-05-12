@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35602'
     url: http://www.gutenberg.org/2009/agents/35602
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31991#Some-of-My-War-StoriesA-Paper-Read-before-the-Ohio-Commandery-of-the-Loyal-legion
 gutenberg_issued: '2010-04-14'
 gutenberg_type: Text
 identifiers:
